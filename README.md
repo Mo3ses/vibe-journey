@@ -22,6 +22,7 @@ Minha jornada no [Vibe Coding 101 (easy-vibe)](https://github.com/datawhalechina
 | `projetos/` | Screenshots, GIFs e links dos apps |
 | `recursos.md` | Links que eu reabri |
 | `TEMPLATE.md` | Modelo de registro |
+| `AGENTS.md` | Rotina que cada nova sessão do agente segue |
 
 ## Licença e citação
 
