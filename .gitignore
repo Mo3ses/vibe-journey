@@ -1,0 +1,19 @@
+# Segredos (Supabase, Stripe)
+.env
+.env.*
+!.env.example
+
+# Dependências e build
+node_modules/
+dist/
+.next/
+out/
+build/
+
+# Logs e sistema
+*.log
+.DS_Store
+Thumbs.db
+
+# Deploy
+.vercel/
